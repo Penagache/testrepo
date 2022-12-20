@@ -1,3 +1,3 @@
 # testrepo
 
-prueba a modificar un fichero en rama2
+prueba a modificar un fichero en rama parche
